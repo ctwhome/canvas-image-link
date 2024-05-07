@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "canvas-image-links",
+	"name": "Canvas Image Links",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Create internal or external links on images in your canvas images.",
+	"author": "ctwhome",
+	"authorUrl": "https://ctwhome.com",
+	"fundingUrl": "https://ctwhome.com/donate",
 	"isDesktopOnly": false
 }
